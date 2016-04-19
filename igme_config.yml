@@ -13,3 +13,5 @@ tags:
   - Math
 extra_resources:
   - "http://www.amazon.com/Primer-Graphics-Development-Wordware-Library/dp/1556229119"
+connections:
+  - "rotation-matrix-tutorial"
